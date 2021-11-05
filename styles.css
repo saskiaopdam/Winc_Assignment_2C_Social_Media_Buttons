@@ -4,6 +4,10 @@
   margin: 0;
 }
 
+body {
+  background-color: black;
+}
+
 .social-media {
   width: 250px;
   height: 100vh;
@@ -112,4 +116,4 @@
   text-align: center;
   padding: 15px 0;
   content: "";
-}/*# sourceMappingURL=styles.css.map */
+} /*# sourceMappingURL=styles.css.map */
